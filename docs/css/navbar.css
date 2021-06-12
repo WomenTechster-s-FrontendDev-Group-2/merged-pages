@@ -105,6 +105,8 @@ a:hover {
   display: block;
 }
 
+
+
 /* SCREENS */
 
 @media (max-width: 500px) {
@@ -187,6 +189,8 @@ a:hover {
     background-color: #343a40;
   }
 }
+
+
 
 @media (max-width: 909px) {
   .navarea .nav-icon {
